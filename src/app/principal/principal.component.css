@@ -1,0 +1,24 @@
+#marca
+{
+    float: right;
+}
+.card
+{
+    display: inline-block;
+    margin: 1em;    
+}
+
+h5
+{
+    text-align: left;
+}
+
+a
+{
+    text-align: left;
+}
+
+p
+{
+    text-align: left;
+}
